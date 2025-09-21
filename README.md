@@ -1,10 +1,3 @@
-# Felix - Omarchy Theme
-An Omarchy Theme for your Arch Linux / Hyprland setup
+# Min - Omarchy Theme
 
-A dead simple theme for the digital minimalist. Black & white with space to breath. While also going edge-to-edge on your monitor and not wasting valuable screen real estate. 
-
-10+ extremely subtle backgrounds. No dramatic backgrounds. No clown-color text. No workspace animations. No nonsense.
-
-Einstein & Jobs wore the same thing every day. Now you can too.
-
-![Felix Omarchy Theme Screenshot](theme.png)
+An Omarchy Theme based on the [Felix theme](https://github.com/TyRichards/omarchy-felix-theme)
